@@ -26,18 +26,13 @@ This is a Python script for scraping data from IMDb (Internet Movie Database) us
 
 ## Usage
 
-1. Run the `imdb_scraper.py` script:
-
-    ```bash
-    python imdb_scraper.py
-    ```
+1. Run the `IMDB_scraping.ipynb` script:
 
 2. Follow the prompts to specify whether you want to scrape movies or TV shows, and enter the number of pages to scrape.
 
 
 ## Example
 
-Here's an example of how to use the scraper:
+Here's I have attached Google Colab link to use the python script:
 
-```bash
-python imdb_scraper.py
+
